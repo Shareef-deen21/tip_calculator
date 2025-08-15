@@ -90,7 +90,6 @@ tip-calculator/
 **Shareef Deen**
 - GitHub: [Shareef-deen21](https://github.com/Shareef-deen21?tab=repositories)
 - LinkedIn: [Shareef Deen](https://lk.linkedin.com/in/shareef-deen-69480331a)
-- Email: your.email@example.com
 
 ## Acknowledgments
 
